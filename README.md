@@ -92,9 +92,9 @@ Ernest Wesson
 
 ## Credits :clipboard:
 
-1. Information about VAR LET and CONST commands - https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/#:~:text=var%20declarations%20are%20globally%20scoped%20or%20function%20scoped%20while%20let,be%20updated%20nor%20re%2Ddeclared
+1. Information about VAR LET and CONST commands - [FreeCodecamp Var Let and Const What's the Difference](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/#:~:text=var%20declarations%20are%20globally%20scoped%20or%20function%20scoped%20while%20let,be%20updated%20nor%20re%2Ddeclared)
 
-2. Why LET is better than VAR
+2. Why LET is better than VAR - [JavaScript Let vs Var vs Constant |Mosh](https://youtu.be/XgSjoHgy3Rk)
 
 
 ## License :page_with_curl:
